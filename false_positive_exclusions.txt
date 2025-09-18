@@ -1,6 +1,26 @@
-Blogger
+APClips
+Carbonmade
 Coders Rank
-CyberDefenders
-LiveJournal
-minds
-xHamster
+Freelance.habr
+GNOME VCS
+Giphy
+HackerEarth
+Heavy-R
+LessWrong
+LushStories
+Mydramalist
+PepperIT
+PocketStars
+Reddit
+Roblox
+RocketTube
+SlideShare
+Splice
+Spotify
+Topcoder
+Weblate
+YandexMusic
+kaskus
+opennet
+svidbook
+threads

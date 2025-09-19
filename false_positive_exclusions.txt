@@ -1,6 +1,4 @@
 APClips
-Carbonmade
-Coders Rank
 Freelance.habr
 GNOME VCS
 Giphy

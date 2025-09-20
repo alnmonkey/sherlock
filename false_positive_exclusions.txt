@@ -1,4 +1,5 @@
 APClips
+CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
@@ -15,10 +16,9 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
+xHamster

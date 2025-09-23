@@ -1,4 +1,6 @@
 APClips
+Coders Rank
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth
@@ -11,13 +13,12 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
+xHamster

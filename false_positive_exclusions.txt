@@ -1,4 +1,8 @@
 APClips
+Blogger
+Coders Rank
+CyberDefenders
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 HackerEarth
@@ -11,11 +15,11 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+RuneScape
+Slack
 SlideShare
 Splice
 Spotify
-Strava
-Topcoder
 Weblate
 YandexMusic
 kaskus

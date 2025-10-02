@@ -1,13 +1,9 @@
 APClips
-Blogger
-Coders Rank
-CyberDefenders
-Eintracht Frankfurt Forum
+BoardGameGeek
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -15,14 +11,14 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
-Slack
 SlideShare
 Splice
 Spotify
+Topcoder
 Weblate
+Wordnik
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
+xHamster

@@ -1,11 +1,12 @@
 APClips
 BoardGameGeek
+Dribbble
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
-Mydramalist
 PepperIT
 PocketStars
 Reddit
@@ -16,9 +17,8 @@ Splice
 Spotify
 Topcoder
 Weblate
-Wordnik
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
-xHamster

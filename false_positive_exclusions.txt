@@ -4,7 +4,6 @@ GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LiveJournal
 LushStories
 PepperIT
 PocketStars
@@ -15,7 +14,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-kaskus
 opennet
 svidbook
 xHamster

@@ -1,21 +1,23 @@
 APClips
-Archive of Our Own
-Coders Rank
-Cults3D
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
+HackerNews
 Heavy-R
+LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
+nnRU
+opennet
 svidbook
+xHamster

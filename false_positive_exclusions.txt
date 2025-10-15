@@ -1,10 +1,8 @@
 APClips
 BreachSta.rs Forum
-Coders Rank
-DeviantArt
+GNOME VCS
 Giphy
 Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
@@ -14,7 +12,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-nnRU
 opennet
+programming.dev
 svidbook
-xHamster

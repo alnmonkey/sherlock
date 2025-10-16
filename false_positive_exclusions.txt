@@ -1,17 +1,19 @@
 APClips
-BreachSta.rs Forum
+DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 Heavy-R
 LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
 Spotify
 Topcoder
 Weblate
+Wix
 YandexMusic
 opennet
-programming.dev
 svidbook

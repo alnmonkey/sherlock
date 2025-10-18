@@ -1,7 +1,5 @@
 APClips
-Carbonmade
 Coders Rank
-Cults3D
 DeviantArt
 GNOME VCS
 Giphy
@@ -11,11 +9,10 @@ Reddit
 RocketTube
 Splice
 Spotify
+Tiendanube
 Topcoder
-TryHackMe
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
 xHamster

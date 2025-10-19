@@ -1,4 +1,5 @@
 APClips
+Chess
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -9,10 +10,7 @@ Reddit
 RocketTube
 Splice
 Spotify
-Tiendanube
-Topcoder
 Weblate
 YandexMusic
 opennet
 svidbook
-xHamster

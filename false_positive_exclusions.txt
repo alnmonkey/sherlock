@@ -1,6 +1,4 @@
 APClips
-CGTrader
-Carbonmade
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -16,4 +14,5 @@ Weblate
 YandexMusic
 opennet
 svidbook
+threads
 xHamster

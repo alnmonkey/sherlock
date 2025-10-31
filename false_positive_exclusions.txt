@@ -3,16 +3,12 @@ Coders Rank
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
 Spotify
 Weblate
 YandexMusic
-nnRU
 opennet
 svidbook
-xHamster

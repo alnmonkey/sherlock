@@ -1,5 +1,5 @@
 APClips
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
 LushStories
@@ -9,10 +9,9 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
-Trovo
 Weblate
 YandexMusic
 opennet
 phpRU
 svidbook
+xHamster

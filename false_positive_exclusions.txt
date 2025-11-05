@@ -1,8 +1,8 @@
 APClips
 Coders Rank
-Cracked Forum
 GNOME VCS
 Giphy
+Itch.io
 LushStories
 PocketStars
 Reddit
@@ -10,6 +10,5 @@ RocketTube
 Splice
 Spotify
 Weblate
-YandexMusic
-phpRU
+opennet
 svidbook

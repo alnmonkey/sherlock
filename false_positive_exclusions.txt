@@ -1,9 +1,8 @@
 APClips
 Archive.org
-Blogger
+Freelancer
 GNOME VCS
 Giphy
-GitHub
 LushStories
 Minecraft
 PocketStars

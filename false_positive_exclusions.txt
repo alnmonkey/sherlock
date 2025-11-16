@@ -1,6 +1,6 @@
 APClips
 Archive.org
-Freelancer
+Coders Rank
 GNOME VCS
 Giphy
 LushStories
@@ -12,6 +12,7 @@ Splice
 Spotify
 Weblate
 YandexMusic
-opennet
+eintracht
 phpRU
 svidbook
+xHamster

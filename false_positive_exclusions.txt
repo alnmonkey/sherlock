@@ -3,8 +3,6 @@ Archive.org
 DeviantArt
 GNOME VCS
 Giphy
-HackerRank
-LushStories
 Minecraft
 PocketStars
 Reddit
@@ -14,6 +12,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
-xHamster

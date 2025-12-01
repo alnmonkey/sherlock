@@ -1,6 +1,8 @@
 APClips
 Archive.org
+Carbonmade
 Coders Rank
+GNOME VCS
 GeeksforGeeks
 Giphy
 LushStories

@@ -1,12 +1,10 @@
 APClips
 Archive.org
-Carbonmade
 Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
 LushStories
-OurDJTalk
 PocketStars
 Reddit
 RocketTube
@@ -16,3 +14,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster

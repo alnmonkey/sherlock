@@ -1,10 +1,12 @@
 APClips
 Archive.org
+Code Snippet Wiki
 Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
 PocketStars

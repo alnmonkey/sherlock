@@ -1,9 +1,6 @@
 APClips
 Archive.org
-Chess
 Code Snippet Wiki
-Coders Rank
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -14,9 +11,8 @@ Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
+threads

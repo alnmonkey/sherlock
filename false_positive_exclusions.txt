@@ -13,10 +13,10 @@ Minecraft
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
 Splice
 Spotify
 Trovo
+Vero
 Weblate
 YandexMusic
 opennet

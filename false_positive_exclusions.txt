@@ -8,9 +8,11 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 Minecraft
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
@@ -19,5 +21,6 @@ Trovo
 Vero
 Weblate
 YandexMusic
-opennet
 svidbook
+threads
+xHamster

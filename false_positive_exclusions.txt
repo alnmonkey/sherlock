@@ -1,26 +1,22 @@
 APClips
 Archive.org
+Blogger
 Code Snippet Wiki
 Coders Rank
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
 Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Vero
 Weblate
 YandexMusic
+opennet
 svidbook
-threads
-xHamster

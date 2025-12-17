@@ -1,8 +1,11 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
 Coders Rank
+DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -14,8 +17,7 @@ RocketTube
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
-xHamster

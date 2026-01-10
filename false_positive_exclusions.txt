@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -21,9 +20,7 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-eintracht
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

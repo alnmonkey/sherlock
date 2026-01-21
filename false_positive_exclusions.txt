@@ -1,8 +1,9 @@
 APClips
 Archive.org
 Code Snippet Wiki
+DeviantArt
+Eintracht Frankfurt Forum
 Fandom
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -10,7 +11,6 @@ Hubski
 LushStories
 Minecraft
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -19,6 +19,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 mercadolivre

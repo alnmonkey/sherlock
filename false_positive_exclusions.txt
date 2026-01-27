@@ -6,10 +6,12 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
-Minecraft
+OurDJTalk
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -20,9 +22,7 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

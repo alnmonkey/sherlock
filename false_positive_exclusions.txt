@@ -1,18 +1,18 @@
 APClips
 Archive.org
-Blogger
+Chess
 Code Snippet Wiki
-Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+ImgUp.cz
 LushStories
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -23,4 +23,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
+threads

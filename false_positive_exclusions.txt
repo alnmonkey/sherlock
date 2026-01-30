@@ -1,12 +1,12 @@
 APClips
 Archive.org
-Chess
 Code Snippet Wiki
+DeviantArt
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-ImgUp.cz
 LushStories
 PocketStars
 Realmeye
@@ -17,10 +17,12 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
+igromania
 mercadolivre
 opennet
 phpRU
 svidbook
-threads
+xHamster

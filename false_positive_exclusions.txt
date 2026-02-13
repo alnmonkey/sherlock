@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Chess
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,13 +7,12 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LessWrong
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -25,6 +23,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster

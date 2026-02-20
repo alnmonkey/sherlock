@@ -1,12 +1,15 @@
 APClips
 Archive.org
-CGTrader
+Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitBook
+Hashnode
 Hubski
 LessWrong
+LushStories
 PocketStars
 Realmeye
 Reddit

@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Audiojungle
 Codolio
 DeviantArt
 GNOME VCS
@@ -11,15 +12,18 @@ LessWrong
 LushStories
 Patched
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate

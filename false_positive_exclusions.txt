@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BoardGameGeek
 Codolio
 DeviantArt
 GNOME VCS
@@ -31,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

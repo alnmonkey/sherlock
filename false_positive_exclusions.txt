@@ -1,9 +1,8 @@
 APClips
 Archive.org
 Audiojungle
-CGTrader
 Codolio
-GNOME VCS
+DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
@@ -22,10 +21,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
+minds
 phpRU
 svidbook

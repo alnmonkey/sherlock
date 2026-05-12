@@ -4,6 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+Carrd
 Codolio
 DeviantArt
 Discord.bio
@@ -12,6 +13,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Motherless
 Patched
 Pornhub
@@ -37,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

@@ -1,10 +1,8 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Carrd
 Codolio
 DeviantArt
 Discord.bio
@@ -16,7 +14,7 @@ LessWrong
 Minecraft
 Motherless
 Patched
-Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -39,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

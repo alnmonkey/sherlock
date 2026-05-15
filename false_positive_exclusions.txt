@@ -3,6 +3,8 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -10,7 +12,7 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-Minecraft
+LessWrong
 Motherless
 Patched
 Rarible
@@ -23,11 +25,13 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals

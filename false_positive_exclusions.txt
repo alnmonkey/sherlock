@@ -3,6 +3,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+Carrd
 Codolio
 DeviantArt
 Discord.bio
@@ -10,8 +11,6 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
-Minecraft
 Patched
 Rarible
 Realmeye

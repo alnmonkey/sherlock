@@ -4,6 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
 Discord.bio
 Envato Forum
@@ -11,7 +12,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-OurDJTalk
+LessWrong
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -37,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

@@ -10,6 +10,7 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -25,7 +26,6 @@ RuneScape
 Scribd
 Shelf
 SlideShare
-Smule
 Splice
 Spotify
 Trovo
@@ -41,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

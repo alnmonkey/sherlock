@@ -14,6 +14,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+Minecraft
 Odysee
 Patched
 Rarible
@@ -26,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania

@@ -4,7 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,6 +18,7 @@ Hubski
 LessWrong
 Minecraft
 Odysee
+OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -27,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania

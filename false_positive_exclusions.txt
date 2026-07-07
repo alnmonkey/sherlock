@@ -7,6 +7,7 @@ Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -14,6 +15,7 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 Odysee
 PCGamer
@@ -29,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,6 +41,8 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster

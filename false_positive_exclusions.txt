@@ -16,6 +16,7 @@ Houzz
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -25,7 +26,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify

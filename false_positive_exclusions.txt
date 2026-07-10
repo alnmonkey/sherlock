@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
+Carrd
 Codolio
 DeviantArt
 Discord.bio
@@ -16,9 +17,7 @@ Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -29,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania

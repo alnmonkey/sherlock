@@ -5,11 +5,9 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
-Chess
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -17,9 +15,10 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LiveJournal
+Minecraft
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -28,13 +27,11 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic

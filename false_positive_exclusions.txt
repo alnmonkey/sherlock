@@ -1,7 +1,9 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 Chatujme.cz
@@ -15,6 +17,7 @@ Giphy
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LessWrong
 Odysee
 PCGamer

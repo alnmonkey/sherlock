@@ -18,15 +18,15 @@ Houzz
 Hubski
 Instapaper
 LessWrong
-LiveJournal
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -36,7 +36,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM

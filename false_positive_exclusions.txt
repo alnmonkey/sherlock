@@ -5,11 +5,11 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Duolingo
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -18,7 +18,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 OurDJTalk
 PCGamer
@@ -35,11 +34,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM

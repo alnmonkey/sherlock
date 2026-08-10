@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -17,8 +16,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -35,6 +34,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM

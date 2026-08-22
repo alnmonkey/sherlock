@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -17,6 +16,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
+Minecraft
 Odysee
 PCGamer
 Rarible

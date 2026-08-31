@@ -8,7 +8,6 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -22,7 +21,6 @@ Hubski
 Instapaper
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -36,7 +34,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe

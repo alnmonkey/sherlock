@@ -17,6 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+ObservableHQ
 Odysee
 PCGamer
 Rarible
@@ -42,6 +43,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook

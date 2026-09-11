@@ -8,7 +8,9 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
+Chess
 Codolio
+ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,6 +20,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Lobsters
+Minecraft
+Mydramalist
 ObservableHQ
 Odysee
 PCGamer
@@ -31,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania

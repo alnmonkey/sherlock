@@ -8,7 +8,6 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
-Chess
 Codolio
 ColourLovers
 DeviantArt
@@ -20,9 +19,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
 Minecraft
-Mydramalist
 ObservableHQ
 Odysee
 PCGamer
@@ -31,12 +28,12 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster

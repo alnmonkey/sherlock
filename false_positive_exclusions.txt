@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -38,7 +37,6 @@ Spotify
 TryHackMe
 Velomania
 Weblate
-Weebly
 YandexMusic
 authorSTREAM
 dailykos

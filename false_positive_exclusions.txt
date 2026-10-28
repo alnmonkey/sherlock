@@ -14,16 +14,17 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,10 +37,12 @@ Splice
 Spotify
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 interpals
@@ -48,3 +51,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster

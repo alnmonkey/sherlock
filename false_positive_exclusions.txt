@@ -7,12 +7,12 @@ Blogger
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
+Houzz
 Hubski
 Instapaper
 Linktree
@@ -20,12 +20,13 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -34,7 +35,6 @@ Spotify
 Trakt
 TryHackMe
 Velomania
-Venmo
 Vero
 YandexMusic
 authorSTREAM
@@ -47,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster

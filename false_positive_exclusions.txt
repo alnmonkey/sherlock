@@ -4,24 +4,22 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-Championat
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
+LibraryThing
 Linktree
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -29,6 +27,7 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
@@ -47,4 +46,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster

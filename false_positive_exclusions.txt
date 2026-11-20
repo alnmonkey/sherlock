@@ -1,20 +1,19 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
 Instapaper
-LibraryThing
 Linktree
 Minecraft
 ObservableHQ
@@ -27,11 +26,9 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
-Signal
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
